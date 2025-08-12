@@ -210,6 +210,14 @@ userstyles:
     icon: deepl
     color: blue
     current-maintainers: [*watatomo]
+  deepseek:
+    name: Deepseek
+    link: https://deepseek.com/en/
+    categories: [artificial_intelligence]
+    icon: deepseek
+    color: blue
+    current-maintainers: [*your-mom-spec-ops]
+    past-maintainers: [*Mouadhbendjedidi]
   docs.rs:
     name: docs.rs
     link: https://docs.rs
